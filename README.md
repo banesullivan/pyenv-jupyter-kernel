@@ -5,7 +5,7 @@ Pyenv plugin to create a jupyter kernel for every installed pyenv version. Inspi
 ## Installation
 
 ```shell
-$ git clone https://github.com/aiguofer/pyenv-jupyter-kernel $(pyenv root)/plugins/pyenv-jupyter-kernel
+$ git clone git@github.com:banesullivan/pyenv-jupyter-kernel.git $(pyenv root)/plugins/pyenv-jupyter-kernel
 ```
 
 ## Usage
